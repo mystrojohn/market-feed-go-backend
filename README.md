@@ -1,4 +1,4 @@
-# market-feed-go-backend
+# market-go-backend
 <p>This is a small micro-service I built to simulate real time market data, for a options trading platform I am developing</p>
 <br>
 
@@ -10,5 +10,5 @@ You can click and subscribe to multiple streams, each delivering a OHLC tick at 
 <p><mark>Note:</mark> Blue means you're subscribed to the feed. </p>
 
 
-# market-feed-go-backend
+# market-go-backend
 
